@@ -1,3 +1,2 @@
-# altereo.github.io
- - Storydice
- 
+# Altereo's Index!
+ - [Storydice](./storydice)
