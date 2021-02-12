@@ -1,2 +1,2 @@
 # Altereo's Index!
- - [Storydice](./storydice)
+ - [Storydice](./story-dice-html/index.html)
